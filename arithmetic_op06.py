@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+number = 4
+number1 = number/2
+answer = float(number1)
+print(answer)
+
+
